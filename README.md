@@ -1,2 +1,3 @@
-# DynamicProgramming
-動的計画法
+# 自主制作物
+* [動的計画法]()
+    * Python
